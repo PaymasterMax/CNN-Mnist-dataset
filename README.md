@@ -16,4 +16,7 @@
         iv) Epoch of 4 is enough to prevent overfit.
         v) The optimizer used was adam, but ofcourse we had other options.
         
-    # Analysis
+  
+ 
+ 
+ # Analysis
