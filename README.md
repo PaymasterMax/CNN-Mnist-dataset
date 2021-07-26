@@ -20,6 +20,7 @@
  
  
  # Analysis
+ The model initially had a higher loss and slighly lower accuracy score just before using cnn.
 The model trained on the mnist data.
 It scored an average of 99.58% on training data and 98.28% on test data,
 The loss computed was roughly  0.02% .
