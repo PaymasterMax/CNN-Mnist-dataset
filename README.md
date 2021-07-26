@@ -11,7 +11,7 @@
 
 9. Model was compiled using the following parameters: 
       
-      i) metrics - accuracy
+        i) metrics - accuracy
         ii) loss function - sparse_categorical_crossentropy
         iii) batch_size 32
         iv) Epoch of 4 is enough to prevent overfit.
